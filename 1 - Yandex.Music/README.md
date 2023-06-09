@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов
 
 <hr style="background-color: #FF772A; color: #FF772A; height: 3px;"> 
