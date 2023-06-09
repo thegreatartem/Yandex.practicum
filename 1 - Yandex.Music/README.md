@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/thegreatartem/Yandex.practicum/assets/39244593/9385e40f-a846-44b6-9f9d-20ddd008430b)
 
 # Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов
 
