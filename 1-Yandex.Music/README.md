@@ -1,8 +1,8 @@
-![image](https://github.com/thegreatartem/Yandex.practicum/assets/39244593/9385e40f-a846-44b6-9f9d-20ddd008430b)
+![image](https://github.com/thegreatartem/Yandex.practicum/assets/39244593/7e4597e0-dfb9-46b9-a00f-945e6ee74c14)
 
 # Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов
 
-<hr style="background-color: #FF772A; color: #FF772A; height: 3px;"> 
+<hr style="background-color: #FF772A; height: 3px;"> 
 
 Сравнение Москвы и Петербурга окружено мифами. Например:
  * Москва — мегаполис, подчинённый жёсткому ритму рабочей недели;
