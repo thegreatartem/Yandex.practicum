@@ -1,4 +1,4 @@
-![image](https://github.com/thegreatartem/Yandex.practicum/assets/39244593/7704f868-652a-459b-9698-e5a8aad17b90)
+![image](https://github.com/thegreatartem/Yandex.practicum/assets/39244593/a6aa9efe-9cf0-4cd9-bc9c-377c94cd2c1c)
 
 # Исследование надежности заемщиков
 
